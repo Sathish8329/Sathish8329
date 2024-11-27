@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Sathish8329/Sathish8329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer** with expertise in automation, CI/CD pipelines, and cloud infrastructure.  
+🔧 Passionate about **Docker**, **Kubernetes**, **Terraform**, and **AWS**.  
+🌟 Always learning and exploring cutting-edge DevOps tools and practices.  
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.com)
 
-- 🔭 I’m currently working on Kovaion Consulting Private Limited
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Repositories
+- [Awesome DevOps](https://github.com/username/awesome-devops)
+- [Kubernetes Setup](https://github.com/username/kubernetes-setup)
