@@ -5,7 +5,7 @@
 🌟 Always learning and exploring cutting-edge DevOps tools and practices.  
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/sathish-selvaraj-263300288/)
 - [Portfolio](https://yourportfolio.com)
 
 ## 🌟 Featured Repositories
